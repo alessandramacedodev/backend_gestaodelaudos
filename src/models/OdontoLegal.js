@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const OdontolegalRecordSchema = new mongoose.Schema({
+const OdontolegalSchema = new mongoose.Schema({
   tipoDenticao: { type: String, enum: ['Permanente', 'Decídua', 'Mista'], required: true },
   caracteristicas: { type: String, required: true },
   regiao: { type: String },
