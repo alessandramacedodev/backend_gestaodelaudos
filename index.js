@@ -8,7 +8,7 @@ const PORT = 5000;
 app.use(express.json());
 
 // Conectar ao MongoDB
-mongoose.connect('mongodb://localhost:27017/seu_banco', {
+mongoose.connect('mongodb://localhost:27017/odontoforense', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
