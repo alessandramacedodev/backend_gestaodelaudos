@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Este projeto é um backend completo para o gerenciamento de laudos periciais odontológicos. Ele foi desenvolvido com foco em segurança, escalabilidade e integração com aplicações web e mobile.",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "chart.js": "^4.4.9",
@@ -25,5 +25,14 @@
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1",
     "yamljs": "^0.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessandramacedodev/backend_odontoforense.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alessandramacedodev/backend_odontoforense/issues"
+  },
+  "homepage": "https://github.com/alessandramacedodev/backend_odontoforense#readme"
 }
