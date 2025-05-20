@@ -26,7 +26,6 @@
     "swagger-ui-express": "^5.0.1",
     "yamljs": "^0.3.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alessandramacedodev/backend_odontoforense.git"
@@ -34,5 +33,8 @@
   "bugs": {
     "url": "https://github.com/alessandramacedodev/backend_odontoforense/issues"
   },
-  "homepage": "https://github.com/alessandramacedodev/backend_odontoforense#readme"
+  "homepage": "https://github.com/alessandramacedodev/backend_odontoforense#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }

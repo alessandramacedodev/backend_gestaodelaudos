@@ -43,8 +43,8 @@ JWT_SECRET=31056eabbc856489ef840f9a3b6d0ab868861a3797ec54a869d71efa83abf88e03772
 
 4. Inicie o servidor
 npm start
-A API estará disponível em: http://localhost:3000
+A API estará disponível em: http://localhost:5000
 
 Documentação da API
-http://localhost:3000/api-docs
+http://localhost:5000/api-docs
 
